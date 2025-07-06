@@ -30,6 +30,7 @@ Grab the checkpoint **re-ordered by importance** from [Google Drive](https://dri
 ### 1. Datasets
 
 All supported datasets are defined in `./dataloader/image_datasets.py`.
+On the first run, required datasets will be automatically downloaded into the ./datasets/ directory.
 
 ### 2. Training & Search Pipeline
 
