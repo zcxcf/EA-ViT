@@ -47,17 +47,13 @@ bash stage2.sh
 # → checkpoints saved to ./logs_weight
 
 ```
-
-
-## 🧪 Evaluation
-
+### 3. Evaluation
 ```bash
 # Edit inference.sh so that CHECKPOINT points to the weights you want to evaluate
 bash inference.sh
 ```
 
-
-## Citation
+## ✏️ Citation
 If you find EA-ViT is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```bibtex
