@@ -1,5 +1,6 @@
 # EA-ViT
 Official inplementation of EA-ViT: Efficient Adaptation for Elastic Vision Transformer [ICCV 2025]
+Paper is available at https://arxiv.org/abs/2507.19360
 
 ## 📝 Abstract
 Vision Transformers (ViTs) have emerged as a foundational model in computer vision, excelling in generalization and adaptation to downstream tasks. However, deploying ViTs to support diverse resource constraints typically requires retraining multiple, size-specific ViTs, which is both time-consuming and energy-intensive.
