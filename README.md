@@ -57,14 +57,14 @@ bash inference.sh
 ## ✏️ Citation
 If you find EA-ViT is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
-```bibtex
-@article{zhu2025eavitefficientadaptationelastic,
+```
+@article{zhu2025eavit,
       title={EA-ViT: Efficient Adaptation for Elastic Vision Transformer}, 
       author={Chen Zhu and Wangbo Zhao and Huiwen Zhang and Samir Khaki and Yuhao Zhou and Weidong Tang and Shuo Wang and Zhihang Yuan and Yuzhang Shang and Xiaojiang Peng and Kai Wang and Dawei Yang},
-      journal={arXiv:2507.19360},
+      journal={arXiv preprint arXiv:2507.19360},
       year={2025},
 }
 ```
-
-
+## ✉️ Contact
+If you're interested in my research, feel free to reach out to me via email: (zc157xcf@gmail.com)
 
